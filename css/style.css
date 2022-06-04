@@ -13,7 +13,8 @@ body{
 }
  
 .header{
-    background-color: #F24C4C;
+    background-color: #67B5DD;
+    color: #ffffff;
 }
  
 .nav{
@@ -31,3 +32,4 @@ body{
 .footer{
     background-color: #293462;
 }
+ 
